@@ -26,7 +26,7 @@ Gemini returns clean, valid **JSON output**, ready for downstream use in applica
 Just click the link below to open the notebook in Colab.  
 Make sure you're signed into your Google account.
 
-➡️ **[https://colab.research.google.com/drive/1Vq2dMF97T8USJ6wl07WW1MhrxSlUs6o_?usp=sharing](#)**
+➡️ **[Colab Link](https://colab.research.google.com/drive/1Vq2dMF97T8USJ6wl07WW1MhrxSlUs6o_?usp=sharing)**
 
 ---
 
